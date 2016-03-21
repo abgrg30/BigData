@@ -1,0 +1,462 @@
+Utah System of Higher Education,Weber State University
+Stanford University
+Villanova University
+University of Arkansas Fayetteville,University of Arkansas System
+University of Scranton
+California State Polytechnic University Pomona,California State University System
+University of Maine,University of Maine System,University of Maine Orono
+Johns Hopkins University
+University of Wyoming
+Valparaiso University
+Oakland University
+Western Washington University
+Montclair State University
+University of Montana,University of Montana System
+California State University System,San Francisco State University
+Miami University
+University of Nebraska Omaha,University of Nebraska System
+University of Hartford
+Ghent University
+Montana State University,Montana State University System
+Widener University
+University of London
+San Diego State University,California State University System
+Australian Catholic University
+Dickinson College
+University of London,Kings College London
+Maastricht University
+University of Oklahoma - Norman,University of Oklahoma System
+University of Massachusetts Amherst,University of Massachusetts System
+Texas State University San Marcos,Texas State University System
+United States Department of Agriculture (USDA),United States Forest Service
+University of Colorado Denver,University of Colorado Health Science Center,University of Colorado System
+California Lutheran University
+University of Wisconsin System,University of Wisconsin Madison
+University of North Carolina,University of North Carolina Charlotte
+Brooklyn College (CUNY),City University of New York (CUNY) System
+University of Michigan,University of Michigan System
+University of Puerto Rico,University of Puerto Rico Mayaguez
+University of Illinois System,University of Illinois Chicago Hospital,University of Illinois Chicago
+Carnegie Mellon University
+University System of Maryland,University of Maryland College Park
+Georgia Institute of Technology,University System of Georgia
+National University of Singapore
+Dalhousie University
+Bridgewater State College,Massachusetts System of Public Higher Education
+University of Cincinnati
+University of California Riverside,University of California System
+Western Kentucky University
+Hamilton College
+City University of New York (CUNY) Graduate School,City University of New York (CUNY) System
+California State University Long Beach,California State University System
+Mercer University
+University System of Georgia,University of Georgia
+University of Toledo
+Appalachian State University,University of North Carolina
+Minnesota State University Mankato
+University of Houston,University of Houston Clear Lake,University of Houston System
+California State University Bakersfield,California State University System
+Middle Tennessee State University
+University of New Mexico
+Ohio Wesleyan University
+Bryn Mawr College
+Apple Inc
+North Dakota State University Fargo
+Texas A&M University System
+University of Tennessee Knoxville,University of Tennessee System
+Trinity College
+University of Southern Mississippi
+City College of New York (CUNY),City University of New York (CUNY) System
+DePauw University
+University of Vermont
+University of Houston,University of Houston System
+Louisiana State University System,Louisiana State University
+California State University System,Sonoma State University
+Skidmore College
+University of Delaware
+Kutztown University - Pennsylvania,Pennsylvania State System of Higher Education (PASSHE)
+Florida International University,Florida State University System
+City University London
+University System of Maryland,University of Maryland Baltimore
+Tsinghua University
+State University of New York (SUNY) Albany,State University of New York (SUNY) System
+California State University System,Humboldt State University
+University of Kansas
+University of Cambridge
+Rutgers State University,Rutgers State University New Brunswick
+Kansas State University
+California State University Stanislaus,California State University System
+Chapman University,Chapman University System
+Kings College London,University of London
+Central Connecticut State University,Connecticut State University System
+Georgetown University
+Saint Cloud State University
+Hofstra University
+University of Connecticut
+Southern Illinois University Edwardsville,Southern Illinois University System
+University of North Carolina,University of North Carolina Chapel Hill
+Yeshiva University
+University of Texas Health Science Center San Antonio
+California State University Fullerton,California State University System
+Minnesota State University Moorhead
+University of Manitoba
+Quinnipiac University
+Hebrew University of Jerusalem
+University of Toronto
+University of Colorado Boulder,University of Colorado System
+Royal College of Surgeons - Ireland
+Rensselaer Polytechnic Institute
+Clemson University
+Pennsylvania Commonwealth System of Higher Education (PCSHE),University of Pittsburgh
+University of California Berkeley,University of California System
+University of Arkansas Little Rock,University of Arkansas System
+University of Alabama System,University of Alabama Tuscaloosa
+Bowling Green State University
+Bloomsburg University of Pennsylvania,Pennsylvania State System of Higher Education (PASSHE)
+Brandeis University
+University of Houston,University of Houston System,University of Houston Clear Lake
+City University of New York (CUNY) System,Hunter College (CUNY)
+California State University Dominguez Hills,California State University System
+University of Dayton
+Kent State University
+University of Louisiana Lafayette,University of Louisiana System
+Pennsylvania State System of Higher Education (PASSHE),Shippensburg University of Pennsylvania
+Coppin State University,University System of Maryland
+Wright State University Dayton
+Chicago State University
+Jackson State University
+University of California Davis,University of California System
+Westat
+University of Texas Dallas
+Mississippi State University
+Loyola Marymount University
+Texas Christian University
+University of Southern Maine,University of Maine System
+University of Groningen
+California State University Fresno,California State University System
+Santa Clara University
+NIH National Institute on Aging (NIA),National Institutes of Health (NIH) - USA
+University of California Los Angeles,University of California System
+Washington University (WUSTL)
+University of South Alabama
+University of Kentucky
+University of Hawaii Manoa,University of Hawaii System
+Auburn University,Auburn University System
+Princeton University
+Western Michigan University
+University of Akron
+Indiana University System,Indiana University-Purdue University Indianapolis
+University of Oxford
+University of Massachusetts System,University of Massachusetts Amherst
+Columbia University,Columbia University Teachers College
+Indiana University Purdue University Fort Wayne,Purdue University System
+Florida Atlantic University,Florida State University System
+Ecole Normale Superieure (ENS) Cachan
+Michigan State University
+University of Virginia
+University of Iowa
+University of Chicago
+Purdue University,Purdue University System
+Wichita State University
+New York University
+University of South Carolina System,University of South Carolina,University of South Carolina Columbia
+Florida State University System,University of Central Florida
+University of Alabama Huntsville,University of Alabama System
+University of Vienna
+University of Minnesota System,University of Minnesota Twin Cities
+University of Tennessee System
+Wesleyan University
+University of Denver
+Syracuse University
+State University of New York (SUNY) Binghamton,State University of New York (SUNY) System
+Texas Tech University,Texas Tech University Health Science Center,Texas Tech University System
+University of Illinois Chicago,University of Illinois System
+College of the Holy Cross - Massachusetts
+John Jay College of Criminal Justice (CUNY),City University of New York (CUNY) System
+University of Maine,University of Maine Orono,University of Maine System
+University System Of New Hampshire,University of New Hampshire
+SUNY Maritime College,State University of New York (SUNY) Stony Brook,State University of New York (SUNY) System
+Dartmouth College
+Indiana University South Bend,Indiana University System,Indiana University System,Indiana University South Bend
+Clark University
+University of New Orleans
+University of Minnesota Duluth,University of Minnesota Twin Cities,University of Minnesota System
+Reed College - Oregon
+City University of New York (CUNY) System,Queens College NY (CUNY)
+Texas Tech University,Texas Tech University System
+Tennessee Technological University
+Indiana University of Pennsylvania,Pennsylvania State System of Higher Education (PASSHE)
+Colorado State University
+Lomonosov Moscow State University
+University of Texas at San Antonio (UTSA)
+University of California San Francisco,University of California System
+Open University - UK
+University of Bath
+Oregon University System,Portland State University
+University of Houston System,University of Houston
+University of South Carolina,University of South Carolina System,University of South Carolina Columbia
+University of North Carolina,University of North Carolina Wilmington
+State University of New York (SUNY) Buffalo,State University of New York (SUNY) System
+University of Nebraska Lincoln,University of Nebraska System
+University of Maryland Baltimore County,University System of Maryland
+University of California System,University of California Los Angeles
+London School Economics & Political Science,University of London
+Seattle University
+University of Nebraska System
+Buffalo State College,State University of New York (SUNY) System
+Hokkaido University
+Uppsala University
+University of Maine System,University of Southern Maine
+Vanderbilt University
+Northwestern University
+Pontificia Universidad,Catolica de Chile
+University of Medicine & Dentistry New Jersey
+Florida State University System,University of South Florida
+University of South Carolina,University of South Carolina Columbia,University of South Carolina System
+University of North Carolina
+Marshall University
+University of San Diego
+Tufts University
+Wayne State University
+University of Ottawa
+Central European University
+University of Wisconsin Madison,University of Wisconsin System
+University of Illinois System,University of Illinois Urbana-Champaign
+State University of New York (SUNY) System
+Stockholm School of Economics
+City University of New York (CUNY) System,Lehman College (CUNY)
+University of Pittsburgh,Pennsylvania Commonwealth System of Higher Education (PCSHE)
+Rutgers State University,University of Medicine & Dentistry New Jersey
+Brigham Young University
+Pepperdine University
+University of Colorado Boulder,University of Colorado at Colorado Springs,University of Colorado System
+East Carolina University,University of North Carolina
+Oklahoma State University - Stillwater,Oklahoma State University System
+University of Notre Dame
+Wake Forest University
+University of Massachusetts Boston,University of Massachusetts System
+Kennesaw State University,University System of Georgia
+Boston University
+Duke University
+Czech Academy of Sciences
+Central Washington University
+George Washington University
+Indiana University System,Indiana University Bloomington
+University of Illinois Chicago,University of Illinois System,University of Illinois Chicago Hospital
+University of Calgary
+University of California Santa Cruz,University of California System
+Emory University
+University of Bielefeld
+Tennessee State University
+University of Rhode Island
+University of Gottingen
+University of Illinois Urbana-Champaign,University of Illinois System
+Jagiellonian University
+New Mexico State University
+Indiana University Kokomo,Indiana University System
+Ecole des Hautes Etudes en Sciences Sociales,PSL Research University Paris
+University of Mississippi
+University of Texas Arlington
+California State University Sacramento,California State University System
+University of Maine,University of Maine Machias,University of Maine System
+Sam Houston State University,Texas State University System
+Millsaps College
+University of California System,University of California Berkeley
+Indiana University South Bend,Indiana University System
+Oregon University System,University of Oregon
+Institute for Advanced Study - USA
+University of British Columbia
+University of Miami
+University of Illinois Springfield,University of Illinois System
+Florida State University System,University of Florida
+Heinrich Heine University Dusseldorf
+University of Illinois Chicago,University of Illinois Chicago Hospital,University of Illinois System
+Penn State University,Pennsylvania Commonwealth System of Higher Education (PCSHE)
+George Mason University
+Old Dominion University
+Central Michigan University
+University of La Verne
+Massachusetts Institute of Technology (MIT)
+South Western University of Finance & Economics - China
+Colgate University
+University of North Carolina Greensboro,University of North Carolina
+University of California San Diego,University of California System
+University of Nebraska System,University of Nebraska Lincoln
+University of Missouri Saint Louis,University of Missouri System
+University of Southern California
+Philipps University Marburg
+University of Minnesota Duluth,University of Minnesota System,University of Minnesota Twin Cities
+Montana State University,Montana State University Bozeman,Montana State University System
+University of the Pacific
+Connecticut State University System,Eastern Connecticut State University
+University of Colorado Boulder,University of Colorado Denver,University of Colorado System
+Indiana University-Purdue University Indianapolis,Indiana University System
+University of Texas Austin
+Loyola University Chicago
+University of Louisiana System,University of New Orleans
+Howard University
+University of Missouri Columbia,University of Missouri System
+University of Rochester
+Marquette University
+Columbia University
+Eastern Michigan University
+Millersville University of Pennsylvania,Pennsylvania State System of Higher Education (PASSHE)
+Harvard University
+University of Washington,University of Washington Bothell
+University of Trento
+The New School
+Yale University
+University of Nairobi
+University of Bologna
+California State University San Marcos,California State University System
+Oregon State University,Oregon University System
+University of Louisville
+University of Turin
+University of Idaho
+University of Alabama System
+University of Oslo
+Hungarian Academy of Sciences
+Iowa State University
+University of Memphis
+SUNY New Paltz,State University of New York (SUNY) System
+Bucknell University
+University of Hawaii System
+Centre National de la Recherche Scientifique (CNRS),University of Pantheon Sorbonne - Paris I
+DePaul University
+Fordham University
+State University of New York (SUNY) System,State University of New York (SUNY) Albany
+University of Colorado Boulder,University of Colorado System,University of Colorado Denver
+Nevada System of Higher Education (NSHE),University of Nevada Las Vegas
+The Santa Fe Institute
+University of Michigan Flint,University of Michigan System
+National Science Foundation (NSF)
+University of California Irvine,University of California System
+University of North Carolina,North Carolina State University
+University of North Dakota Grand Forks
+University of St Thomas Minnesota
+Universite de Bordeaux
+Lund University
+Biola University
+Georgia Regents University,University System of Georgia
+University of Washington,University of Washington Seattle
+Utah System of Higher Education,Utah Valley University
+New Jersey Institute of Technology
+Nebraska State College System,Wayne State College
+National Louis University
+Florida State University System,University of North Florida
+Virginia Polytechnic Institute & State University
+Carleton College
+Ohio University
+Tulane University
+Idaho State University
+Utah State University
+Northern Arizona University
+NIH National Cancer Institute (NCI),National Institutes of Health (NIH) - USA
+University of Wisconsin Milwaukee,University of Wisconsin System
+Montana State University,Montana State University System,Montana State University Bozeman
+University System of Maryland,University of Maryland University College,University of Maryland College Park
+University of South Dakota
+University of Tennessee Martin,University of Tennessee System
+California State University System,San Diego State University
+RAND Corporation
+University of Otago
+Indiana University Bloomington,Indiana University System
+University of Ghana
+Max Planck Society
+Gonzaga University
+Nevada System of Higher Education (NSHE),University of Nevada Reno
+Boston College
+University of Sydney
+Indiana University South Bend,Indiana University System,Indiana University South Bend,Indiana University System
+Baylor University
+Ben Gurion University
+Florida State University,Florida State University System
+University of Massachusetts Lowell,University of Massachusetts System
+Indiana University South Bend,Indiana University South Bend,Indiana University System,Indiana University System
+Cornell University
+Illinois State University
+Lamar University,Texas State University System
+University of North Carolina,University of North Carolina Greensboro
+Oregon University System,Western Oregon University
+SUNY Geneseo,State University of New York (SUNY) System
+University of New England - USA
+Texas Southern University
+University of Pennsylvania
+Gettysburg College
+University System of Georgia,Valdosta State University
+Northeastern University
+Rutgers State University
+United States Department of Agriculture (USDA)
+University of Limerick
+University of Nebraska System,University of Nebraska Omaha
+University of Utah,Utah System of Higher Education
+University of Lethbridge
+Rice University
+University of Utrecht
+California State University Los Angeles,California State University System
+University of Guam
+University of Colorado Boulder,University of Colorado System,University of Colorado at Colorado Springs
+SUNY Cortland,State University of New York (SUNY) System
+Northern Illinois University
+University of California System,University of California Riverside
+University of Minnesota Twin Cities,University of Minnesota System
+Franklin & Marshall College
+Louisiana State University,Louisiana State University System
+Brown University
+University of Wisconsin System
+University of Padua
+Case Western Reserve University
+York College Pennsylvania
+North Carolina State University,University of North Carolina
+United States Army,United States Department of Defense
+James Madison University
+INSEAD Business School
+California State University Northridge,California State University System
+Georgia Southern University,University System of Georgia
+East Tennessee State University
+Southern Illinois University,Southern Illinois University System
+University of Maryland College Park
+Washington State University
+American University
+Tokyo Metropolitan University
+Arizona State University
+University of North Texas Denton,University of North Texas System
+Utah State University,Utah System of Higher Education
+City University of New York (CUNY) System
+University of Arizona
+State University of New York (SUNY) Stony Brook,State University of New York (SUNY) System
+University of North Carolina Chapel Hill,University of North Carolina
+University of Illinois Chicago Hospital,University of Illinois Chicago,University of Illinois System
+Towson University,University System of Maryland
+Chinese University of Hong Kong
+Ohio State University
+University System of Maryland,University of Maryland Baltimore County
+McGill University
+Brunel University
+University of Washington Seattle,University of Washington
+University of Texas Pan American
+Grand Valley State University
+Haverford College
+Australian National University
+National Research University - Higher School of Economics
+Cleveland State University
+Pennsylvania Commonwealth System of Higher Education (PCSHE),Temple University
+Saint John's University
+University of Wisconsin Parkside,University of Wisconsin System
+Creighton University
+Georgia State University,University System of Georgia
+Drexel University
+California State University System,San Jose State University
+Texas A&M University Commerce,Texas A&M University System
+University of California Santa Barbara,University of California System
+University of Louisiana Lafayette
+Ball State University
+University College Dublin
+City University of New York (CUNY) System,John Jay College of Criminal Justice (CUNY)
+University of Alaska Anchorage,University of Alaska System
+College William & Mary
+Texas A&M University College Station,Texas A&M University System
+West Virginia University
+Google Incorporated
+University of California Merced,University of California System
+University of Alabama Birmingham,University of Alabama System
